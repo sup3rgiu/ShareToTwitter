@@ -1,2 +1,2 @@
-# AutoFollow
-AutoFollow: create an action to autofollow an @user on Twitter (may be not updated)
+# ShareToTwitter
+ShareToTwitter: Add an Heart on the navigation bar of your tweak settings to send a Tweet
